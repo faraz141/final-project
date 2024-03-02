@@ -1,4 +1,9 @@
 Travel Destinations Website
+(https://masood-kidwai.github.io/travel-website/)
+
+![Screenshot 2024-03-02 230210](https://github.com/faraz141/final-project/assets/153891083/9a576b1e-d5cc-4fa5-9915-5adc12701bfe)
+
+
 
 This website is created with my team member.I am a team leader Faraz Alam and other two members is Affan qaisar and masood kidwai
 
